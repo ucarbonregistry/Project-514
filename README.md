@@ -81,5 +81,53 @@ advanced treatment processes implemented—
 including Effluent Treatment Plants (ETPs),
 ultrafiltration (UF), and reverse osmosis (RO) systems—the project now ensures the recycling and reuse of water, reducing the dependency on groundwater
 and promoting a sustainable water management approach.
+______________
+ISSUANCE DATE: 09/09/2025
 
+QTY: 573523
+
+MP-01:2018-2024
+__________
+Serial Number: 0001-000001-005510-UCR-RoU-IN-514-01122018-31122018
+
+Vintage Year: 2018
+
+Quantity: 5510
+___________
+Serial Number: 0001-005511-071062-UCR-RoU-IN-514-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 65552
+___________
+Serial Number: 0001-071063-139488-UCR-RoU-IN-514-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 68426
+___________
+Serial Number: 0001-139489-211138-UCR-RoU-IN-514-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 71650
+_____________
+Serial Number: 0001-211139-296498-UCR-RoU-IN-514-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 85360
+___________
+Serial Number: 0001-296499-432836-UCR-RoU-IN-514-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 136338
+____________
+Serial Number: 0001-432837-573523-UCR-RoU-IN-514-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 140687
+_____________
 
